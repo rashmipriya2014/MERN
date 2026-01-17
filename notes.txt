@@ -1,0 +1,10 @@
+## To generate package .json
+	npm init -y	
+	
+## To install package 
+	Eg express :- npm i express 
+	(is a lightweight web framework that makes it easy to build web servers and APIs.Create Web Servers Easily,Build REST APIs,Handle Routes (URLs))
+
+## To install nodemon
+	npm i -D nodemon
+	(When you're developing a Node/Express app, you normally have to stop and restart the server every time you change a file. Nodemon does that for you automatically)
